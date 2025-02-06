@@ -7,12 +7,18 @@ I'm a passionate **Front-End Developer** with experience in **React** and a soli
 - 🔥 Strengthening my **JavaScript & React** expertise daily.
 - 📚 Learning **backend development with Django** to become a full-stack developer.
 
-### 🎯 Skills & Tech Stack:
-- **Languages:** JavaScript, Python, HTML, CSS  
-- **Frontend:** React, Bootstrap, Tailwind CSS  
-- **Backend:** Django, REST APIs  
-- **Databases:** MySQL, MongoDB  
-- **Tools:** Git, GitHub, VS Code
+### 🌍 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shereena/)  
+📩 **Email:** shereena@example.com  
+  
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shereena-A&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shereena-A&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shereena-A&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
 
 ### 📈 GitHub Stats:
 <div align="center">
@@ -24,9 +30,5 @@ I'm a passionate **Front-End Developer** with experience in **React** and a soli
 <div align="center">  
   <img src="https://github-profile-trophy.vercel.app/?username=Shereena-A&theme=radical" alt="GitHub Trophies" />  
 </div>
-
-### 🌍 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shereena/)  
-📩 **Email:** shereena@example.com  
 
 🚀 Let's build something amazing together!
